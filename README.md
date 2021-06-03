@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ Freshman
-✨ Newbie
-✨ Love computer science
-✨ Things want to do:
+✨ Freshman<br>
+✨ Newbie<br>
+✨ Love computer science<br>
+✨ Things want to do:<br>
 . Learning python
 . Learning shell
 . Learning computer network
 . Learning C language furtherly
 . Learning English
-. Having a high-performance computer
-✨ Blog: [Zxy's space](https://realsaltedfish.com)
+. Having a high-performance computer<br>
+✨ Blog: [Zxy's space](https://realsaltedfish.com)<br>
 ✨ Stay hungry, stay foolish
