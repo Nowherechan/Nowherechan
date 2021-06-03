@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ✨ Newbie<br>
 ✨ Love computer science<br>
 ✨ Things want to do:<br>
-. Learning python
-. Learning shell
-. Learning computer network
-. Learning C language furtherly
-. Learning English
-. Having a high-performance computer<br>
+* Learning python
+* Learning shell
+* Learning computer network
+* Learning C language furtherly
+* Learning English
+* Having a high-performance computer<br>
 ✨ Blog: [Zxy's space](https://realsaltedfish.com)<br>
 ✨ Stay hungry, stay foolish
