@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 * Learning C language furtherly
 * Learning English
 * Having a high-performance computer
+<br>
 ✨ Blog: [Zxy's space](https://realsaltedfish.com)<br>
 ✨ Stay hungry, stay foolish
