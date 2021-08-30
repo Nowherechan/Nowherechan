@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ Freshman<br>
+✨ Sophomore<br>
 ✨ Newbie<br>
 ✨ Love computer science<br>
 ✨ Things want to do:<br>
