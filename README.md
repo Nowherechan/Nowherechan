@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 * Learning English
 * Having a high-performance computer
 <br>
-✨ Blog: https://realsaltedfish.com<br>
+✨ Blog: https://blog.zxymoe.fun<br>
 ✨ Stay hungry, stay foolish
