@@ -1,29 +1,29 @@
-###  Hello !
+<h2 align="center">Hi 👋, I'm Nowhereman</h2>
+<h6 align="center">CS is hard 😭</h6>
 
-<!--
-**Realsaltedfish/Realsaltedfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Junior@WHU
 
-Here are some ideas to get you started:
+✨ Beginner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-✨ Sophomore<br>
-✨ Newbie<br>
-✨ Love computer science<br>
-✨ Things want to do:<br>
-* Learning python
-* Learning shell
-* Learning computer network
-* Learning C language furtherly
-* Learning English
-* Having a high-performance computer
-<br>
-✨ Blog: https://blog.zxymoe.fun<br>
+🔭 Love computer science
+
+🌱 Things want to do:
+
+- Learning python
+- Learning C language further
+- Learning English
+- Having a high-performance computer
+
 ✨ Stay hungry, stay foolish
+
+---
+- 📫 How to reach me **zzxy233@gmail.com**
+
+
+
+
+
+
+
+
+
