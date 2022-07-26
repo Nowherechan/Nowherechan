@@ -18,6 +18,7 @@
 
 ---
 - 📫 How to reach me **zzxy233@gmail.com**
+- 🔑 GPG: `AD452151F3F286C3`  Also: `23A587A29DBF6B3B`
 
 
 
