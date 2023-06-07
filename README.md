@@ -19,12 +19,8 @@
 ---
 - 📫 How to reach me **zzxy233@gmail.com**
 - 🔑 GPG: `AD452151F3F286C3`  Also: `23A587A29DBF6B3B`
-- 
+
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&rank_icon=github)
+
 ![This Week](https://github-readme-stats.vercel.app/api/wakatime?username=Nowherechan&layout=compact)
-
-
-
-
-
-
