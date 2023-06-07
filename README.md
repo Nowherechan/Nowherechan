@@ -9,19 +9,19 @@
 
 🌱 Things want to do:
 
-- Learning python
-- Learning C language further
-- Learning English
-- Having a high-performance computer
+- Write a toy OS
+- Learn Rust
+- Learn English
+- Don't stay up late
 
 ✨ Stay hungry, stay foolish
 
 ---
 - 📫 How to reach me **zzxy233@gmail.com**
 - 🔑 GPG: `AD452151F3F286C3`  Also: `23A587A29DBF6B3B`
-
-
-
+- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&rank_icon=github)
+![This Week](https://github-readme-stats.vercel.app/api/wakatime?username=Nowherechan&layout=compact)
 
 
 
