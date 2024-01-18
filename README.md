@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Nowhereman</h2>
 <h6 align="center">CS is hard 😭</h6>
 
-✨ Junior@WHU
+✨ Senior@WHU
 
 ✨ Beginner
 
