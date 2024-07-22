@@ -1,23 +1,8 @@
 <h2 align="center">Hi 👋, I'm Nowhereman</h2>
 <h6 align="center">CS is hard 😭</h6>
 
-✨ Senior@WHU
-
-✨ Beginner
-
-🔭 Love computer science
-
-🌱 Things want to do:
-
-- Write a toy OS
-- Learn Rust
-- Learn English
-- Don't stay up late
-
-✨ Stay hungry, stay foolish
-
 ---
-- 📫 How to reach me **zzxy233@gmail.com**
+- 📫 How to reach me **nowhereman@whu.edu.cn**
 - 🔑 GPG: `AD452151F3F286C3`  Also: `23A587A29DBF6B3B`
 
 ---
