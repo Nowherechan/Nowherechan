@@ -8,4 +8,5 @@
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
-![This Week](https://github-readme-stats.vercel.app/api/wakatime?username=Nowherechan&theme=transparent&layout=compact)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
