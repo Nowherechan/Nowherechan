@@ -9,28 +9,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2034%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Rust                     9 hrs 44 mins       ██████████████░░░░░░░░░░░   54.18 % 
-TypeScript               4 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-C++                      3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-CMake                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 58 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    13 hrs 37 mins      ███████████████████░░░░░░   75.81 % 
-Windows                  4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-```
-
-
- Last Updated on 26/03/2025 18:12:56 UTC
+ Last Updated on 27/03/2025 18:12:40 UTC
 <!--END_SECTION:waka-->
