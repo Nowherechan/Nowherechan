@@ -9,7 +9,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,5 +32,5 @@ Linux                    35 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 19/04/2025 18:10:45 UTC
+ Last Updated on 20/04/2025 18:11:14 UTC
 <!--END_SECTION:waka-->
