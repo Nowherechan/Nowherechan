@@ -9,23 +9,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2059%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 28/07/2025 18:15:10 UTC
+ Last Updated on 30/07/2025 18:14:54 UTC
 <!--END_SECTION:waka-->
