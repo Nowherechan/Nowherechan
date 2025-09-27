@@ -9,7 +9,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2031%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,15 +17,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    31 mins             █████████████████████████   100.00 % 
+Typst                    5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/09/2025 18:12:01 UTC
+ Last Updated on 27/09/2025 18:11:40 UTC
 <!--END_SECTION:waka-->
