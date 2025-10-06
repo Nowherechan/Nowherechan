@@ -17,16 +17,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    1 hr 15 mins        ██████████████████████░░░   87.15 % 
-BibTeX                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/10/2025 18:11:43 UTC
+ Last Updated on 06/10/2025 18:13:56 UTC
 <!--END_SECTION:waka-->
