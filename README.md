@@ -9,6 +9,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%207%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -25,5 +27,5 @@ Windows                  9 mins              ███████████�
 ```
 
 
- Last Updated on 15/10/2025 18:14:44 UTC
+ Last Updated on 16/10/2025 18:14:14 UTC
 <!--END_SECTION:waka-->
