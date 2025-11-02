@@ -9,6 +9,21 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 01/11/2025 18:11:49 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 02/11/2025 18:11:47 UTC
 <!--END_SECTION:waka-->
