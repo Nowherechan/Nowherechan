@@ -9,10 +9,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowherechan&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2034%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2017%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,5 +31,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 19:07:54 UTC
+ Last Updated on 28/07/2026 19:03:03 UTC
 <!--END_SECTION:waka-->
